@@ -252,18 +252,15 @@ params:
             url: https://twitter.com/NikiThadani
 
 
-  #Contact
-  contact:
-    enable: true
-    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-    email: gurusabarisha@gmail.com
-    btnName: Mail me
 
+  #Contact
+ 
   footer:
     # recentPosts: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+      github: https://github.com/nikithadani
+      linkedin: https://www.linkedin.com/in/nikita-thadani98
+      twitter: https://twitter.com/NikiThadani
+      #instagram: https://instagram.com
+      #facebook: https://facebook.com
+ 
