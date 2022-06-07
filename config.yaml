@@ -96,13 +96,17 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: /cv.pdf
     socialLinks:
       fontAwesomeIcons:
+        - icon: fab fa-linkedin
+          url: https://www.linkedin.com/in/nikita-thadani98
         - icon: fab fa-github
-          url: https://example.com
+          url: https://github.com/nikithadani
         - icon: fab fa-twitter
-          url: https://example.com
+          url: https://twitter.com/NikiThadani
+        - icon: fa fa-envelope
+          url: mailto:nikithadani@gmail.com
       customIcons:
         - icon: /fav.png
           url: "https://example.com"
