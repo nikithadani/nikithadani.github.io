@@ -1,6 +1,6 @@
 baseURL: "https://nikithadani.netlify.app/"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Nikita Thadani"
 theme: "hugo-profile"
 
 Paginate: 3
