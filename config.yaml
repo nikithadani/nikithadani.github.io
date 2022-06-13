@@ -250,6 +250,20 @@ params:
             url: https://github.com/nikithadani/TidyTuesday
           - icon: fab fa-twitter
             url: https://twitter.com/NikiThadani
+            
+
+      - title: Final Project for Data Science for Biologists Fall 2021
+        content: The goal was to ask FOUR scientific/explanatory questions about your dataset, and answer each question with any necessary associated wrangling, modeling, and visualization to address and/or complement the question.
+        image: /images/projects/question1.png
+        featured:
+          name: See it here!
+          link: https://nikithadani.github.io/Final-Project-for-Data-Science-for-Biologists-Fall-2021/
+        # badges:
+        #   - "Django"
+        #   - "Bootstrap"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/nikithadani/Final-Project-for-Data-Science-for-Biologists-Fall-2021
 
 
 
