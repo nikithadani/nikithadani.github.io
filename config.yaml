@@ -90,8 +90,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Nikita."
-    subtitle: "I am looking to pursue Data Science as a career"
-    content: "A passionate X"
+    #subtitle: "I am looking to pursue Data Science as a career"
+    content: "A passionate and hardworking young lady looking to kickstart her career at an entry level job."
     image: /images/yo.jpg
     button:
       enable: true
@@ -114,12 +114,12 @@ params:
     title: "About Me"
     image: "/images/prof.JPG"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
-
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      I am a Biological Sciences graduate with a passion for coding. I have a background in Biomedical Engineering and a couple of programing languages.
+      
+      I am looking for a company that would be interested in my high achieving nature and my dedication to impact any organization that will find useful my motivation and desire to grow.
     skills:
       enable: true
-      title: "Here are a few technologies I've been working with recently:"
+      title: "Here are a few technologies I've been working with:"
       items:
         - "R"
         - "HTML"
@@ -182,7 +182,7 @@ params:
           name: "Rowan College at Burlington County"
           url: "https://www.rcbc.edu/"
         date: "Attended 2020 - 2021"
-        GPA: "3.469 out of 4"
+        GPA: "3.469 out of 4.0"
         #content: |-
 
         #featuredLink:
@@ -196,7 +196,7 @@ params:
           name: "Universidad Especializadas de las Americas (Panama City, Panama)"
           url: "http://www.udelas.ac.pa/"
         date: " Attended 2017 - 2020"
-        GPA: "3.13 out of 4"
+        GPA: "3.13 out of 4.0"
         #content: |-
         #featuredLink:
           #enable: true
