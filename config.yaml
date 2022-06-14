@@ -92,7 +92,8 @@ params:
     title: "Nikita."
     #subtitle: "I am looking to pursue Data Science as a career"
     content: "A passionate and hardworking young lady looking to kickstart her career at an entry level job."
-    image: /images/yo.jpg
+    image: /images/3.JPG 
+    
     button:
       enable: true
       name: "Resume"
@@ -112,7 +113,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/prof.JPG"
+    image: "/images/head.jpg"
     content: |-
       I am a Biological Sciences graduate with a passion for coding. I have a background in Biomedical Engineering and a couple of programing languages.
       
@@ -253,7 +254,7 @@ params:
             
 
       - title: Final Project for Data Science for Biologists Fall 2021
-        content: The goal was to ask FOUR scientific/explanatory questions about your dataset, and answer each question with any necessary associated wrangling, modeling, and visualization to address and/or complement the question.
+        content: The goal was to ask FOUR scientific/explanatory questions about my dataset, and answer each question with any necessary associated wrangling, modeling, and visualization to address and/or complement the question.
         image: /images/projects/question1.png
         featured:
           name: See it here!
