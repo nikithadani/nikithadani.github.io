@@ -40,7 +40,7 @@ Menus:
 
 params:
   title: "Nikita Thadani"
-  description: Text about my cool site
+  description: Nikita Thadan
   # staticPath: ""  # The path to serve the static files from
   favicon: "/logo.png"
 
@@ -131,8 +131,7 @@ params:
     enable: true
     items:
       - job: "Practicum - Department of Biomedical Engineering"
-        company: "San Miguel Arcángel Hospital"
-        country: "Panama city, Panama" 
+        company: "San Miguel Arcángel Hospital (Panama city, Panama)"
         companyUrl: "https://www.minsa.gob.pa/contenido/hospital-san-miguel-arcangel"
         date: "August 2019 - December 2019"
         #featuredLink:
@@ -147,7 +146,7 @@ params:
           
           
       - job: "Practicum - Department of Biomedical Engineering"
-        company: "Hospitalar SA"
+        company: "Hospitalar SA (Panama city, Panama)"
         companyUrl: "https://hospitalar.com.pa"
         date: "August 2018 - December 2018"
         content: |
