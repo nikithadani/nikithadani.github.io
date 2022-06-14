@@ -131,7 +131,7 @@ params:
     enable: true
     items:
       - job: "Practicum - Department of Biomedical Engineering"
-        company: "San Miguel Arcángel Hospital (Panama city, Panama)"
+        company: "San Miguel Arcangel Hospital in Panamá"
         companyUrl: "https://www.minsa.gob.pa/contenido/hospital-san-miguel-arcangel"
         date: "August 2019 - December 2019"
         #featuredLink:
@@ -146,18 +146,17 @@ params:
           
           
       - job: "Practicum - Department of Biomedical Engineering"
-        company: "Hospitalar SA (Panama city, Panama)"
+        company: "Hospitalar SA in Panamá"
         companyUrl: "https://hospitalar.com.pa"
         date: "August 2018 - December 2018"
         content: |
           - Supported inventory control.
           - Assisted and observed  in minor repairs, testing, and maintenance of medical equipment.
-          
 
 
-          
 
-  
+
+         
   # Education
   education:
     enable: true
@@ -193,7 +192,7 @@ params:
 
       - title: "Bachelor of Science in Biomedical Engineering (Attended)"
         school:
-          name: "Universidad Especializadas de las Americas (Panama City, Panama)"
+          name: "Universidad Especializadas de las Americas (Panama City, Panamá)"
           url: "http://www.udelas.ac.pa/"
         date: " Attended 2017 - 2020"
         GPA: "3.13 out of 4.0"
@@ -204,7 +203,7 @@ params:
           #url: "https://example.com"
       - title: "High School"
         school:
-          name: "Instituto Cultural Bilingue (Panama City, Panama)"
+          name: "Instituto Cultural Bilingue (Panama City, Panamá)"
           url: "http://institutocultural.education/"
         #GPA: "No me acuerdo"
         #featuredLink:
